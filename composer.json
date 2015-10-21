@@ -1,5 +1,5 @@
 {
-    "name": "user11001/eloquent-model-generator",
+    "name": "heskymatic/eloquent-model-generator",
     "description": "Auto-generates all Eloquent models from the database in a Laravel 5 project.",
     "keywords": ["laravel", "model", "eloquent", "artisan"],
     "license": "MIT",
@@ -23,7 +23,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "User11001\\EloquentModelGenerator\\": "src/"
+            "Heskymatic\\EloquentModelGenerator\\": "src/"
         }
     },
     "require-dev": {
